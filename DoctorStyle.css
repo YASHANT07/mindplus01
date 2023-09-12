@@ -1,0 +1,47 @@
+.doctor-card {
+    border: 1px solid #515050;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .doctor-card h2 {
+    font-size: 1.5rem;
+    margin: 0;
+  }
+  
+  .doctor-card p {
+    font-size: 1rem;
+    margin: 5px 0;
+  }
+  
+  .contactbtn {
+    color: #fff;
+    text-decoration: none; /* Fix typo */
+    border-radius: 0.5rem;
+     cursor: pointer; 
+     border: 0px;
+     padding: 10px;
+     background-color: rgb(22, 127, 169);
+  } 
+  
+ .bookbtn {
+    margin-left: 1.5rem;
+    color: #fff;
+    border-radius: 0.5rem;
+    text-decoration: none; /* Fix typo */
+    cursor: pointer;
+    border: 0px;
+    padding: 10px;
+    background-color: rgb(22, 127, 169);
+  }
+  
+  .doctor-card img {
+    width: 200px;
+    height: auto;
+    border-radius: 5px;
+    margin-left: 5px;
+  } 
+  
